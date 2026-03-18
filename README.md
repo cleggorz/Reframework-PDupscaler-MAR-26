@@ -48,7 +48,7 @@ DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Sto
 
 ### Download and extract latest nvngx.dll to RE3 root directory (\Steam\steamapps\common\RE3) 
 
-https://www.techpowerup.com/download/nvidia-dlss-dll/](https://www.techpowerup.com/download/nvidia-dlss-dll/
+https://www.techpowerup.com/download/nvidia-dlss-dll/
 
 ### Tested with NVIDIA DLSS DLL 310.5.3
 
