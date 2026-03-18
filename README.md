@@ -20,11 +20,11 @@ PDPerfPlugin 1.1.2
 
 DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
 
-Need to apply latest nvngx to RE2 root directory (\Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2)
-
-Tested with NVIDIA DLSS DLL 310.5.3 
+### Download and extract latest nvngx.dll to RE2 root directory (\Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2) 
 
 https://www.techpowerup.com/download/nvidia-dlss-dll/
+
+### Tested with NVIDIA DLSS DLL 310.5.3 
 
 fluffyxnomore contains x no more mod.
 
@@ -48,11 +48,11 @@ PDPerfPlugin 1.1.2
 
 DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
 
-Need to apply latest nvngx to RE3 root directory (\Steam\steamapps\common\RE3) 
+### Download and extract latest nvngx.dll to RE3 root directory (\Steam\steamapps\common\RE3) 
 
-Tested with NVIDIA DLSS DLL 310.5.3 
+https://www.techpowerup.com/download/nvidia-dlss-dll/](https://www.techpowerup.com/download/nvidia-dlss-dll/
 
-https://www.techpowerup.com/download/nvidia-dlss-dll/
+### Tested with NVIDIA DLSS DLL 310.5.3
 
 ## OTHER NOTES.
 
