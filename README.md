@@ -4,6 +4,8 @@ Resident evil 2 Remake.
 
 ReFramework files taken from latest upscaler build.
 
+///////////////////////////////////////////////////
+
 Extract files to \Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2
 
 RE2dx12allfilesmar26 contains:
@@ -24,13 +26,25 @@ Tested with NVIDIA DLSS DLL 310.5.3
 
 https://www.techpowerup.com/download/nvidia-dlss-dll/
 
+///////////////////////////////////////////////////
+
+OTHER NOTES.
+
+INSERT key opens/ closes REFRAMEWORK overlay.
+
+Make sure under tab TemporalUpscaler to check Enabled, you can choose DLSS quality in Quality Level dropdown.
+
+Trainer settings are under Script GeneraterUI, select Use seperate window for easier access.
+
 fluffyxnomore contains x no more mod.
 
-///////////////////////////////////////////
+///////////////////////////////////////////////////
 
 Resident evil 3 Remake.
 
 ReFramework files taken from latest upscaler build.
+
+///////////////////////////////////////////////////
 
 Extract files to \Steam\steamapps\common\RE3
 
@@ -51,4 +65,13 @@ Need to apply latest nvngx to RE3 root directory (\Steam\steamapps\common\RE3)
 Tested with NVIDIA DLSS DLL 310.5.3 
 
 https://www.techpowerup.com/download/nvidia-dlss-dll/
+
+///////////////////////////////////////////////////
+
+INSERT key opens/ closes REFRAMEWORK overlay.
+
+Make sure under tab TemporalUpscaler to check Enabled, you can choose DLSS quality in Quality Level dropdown.
+
+Trainer settings are under Script GeneraterUI, select Use seperate window for easier access.
+
 
