@@ -2,6 +2,8 @@
 
 ### These files add a bunch of enhancement mods to RE2/ RE3. When I get chance I will update for other games. 
 
+### Make sure to check OTHER NOTES at the bottom.
+
 # Resident evil 2 Remake.
 
 ## RE2dx12allfilesmar26.7z
