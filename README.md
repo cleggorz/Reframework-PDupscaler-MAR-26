@@ -28,8 +28,6 @@ https://www.techpowerup.com/download/nvidia-dlss-dll/
 
 ### Tested with NVIDIA DLSS DLL 310.5.3 
 
-fluffyxnomore contains x no more mod.
-
 # Resident evil 3 Remake.
 
 ## RE3dx12allfilesmar26.7z
