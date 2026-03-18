@@ -46,7 +46,7 @@ PDPerfPlugin 1.1.2
 
 DLSS Tweaks forcing transformer model L for use with latest DLSS version (Stops ghosting/ smearing)
 
-Need to apply latest nvngx to RE2 root directory (\Steam\steamapps\common\RE3) 
+Need to apply latest nvngx to RE3 root directory (\Steam\steamapps\common\RE3) 
 
 Tested with NVIDIA DLSS DLL 310.5.3 
 
