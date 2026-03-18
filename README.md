@@ -8,6 +8,7 @@ Latest Reframework dinput8
 Ultimate trainer
 REFIX
 PDPerfPlugin 1.1.2
+DLSS Tweaks forcing transformer model L for use with latest DLSS version (Stops ghosting/ smearing)
 
 Need to apply latest nvngx to re2 root directory
 https://www.techpowerup.com/download/nvidia-dlss-dll/
@@ -22,7 +23,8 @@ Latest Reframework dinput8
 Ultimate trainer
 REFIX
 PDPerfPlugin 1.1.2
+DLSS Tweaks forcing transformer model L for use with latest DLSS version (Stops ghosting/ smearing)
 
-Need to apply latest nvngx to re2 root directory
+Need to apply latest nvngx to re3 root directory
 https://www.techpowerup.com/download/nvidia-dlss-dll/
 
