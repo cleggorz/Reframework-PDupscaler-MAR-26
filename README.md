@@ -1,12 +1,12 @@
-# Latest nightly ReFramework as of 12/3/26
+# ReFramework files taken from latest upscaler build as of 12/3/26.
 
-## Resident evil 2 Remake.
+### These files add a bunch of enhancement mods to RE2/ RE3. When I get chance I will update for other games. 
 
-### ReFramework files taken from latest upscaler build.
+# Resident evil 2 Remake.
 
-### RE2dx12allfilesmar26.7z
+## RE2dx12allfilesmar26.7z
 
-Download and extract files to \Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2
+### Download and extract files to \Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2
 
 File contains:
 
@@ -28,13 +28,11 @@ https://www.techpowerup.com/download/nvidia-dlss-dll/
 
 fluffyxnomore contains x no more mod.
 
-## Resident evil 3 Remake.
+# Resident evil 3 Remake.
 
-### ReFramework files taken from latest upscaler build.
+## RE3dx12allfilesmar26.7z
 
-### RE3dx12allfilesmar26.7z
-
-Download and extract files to \Steam\steamapps\common\RE3
+### Download and extract files to \Steam\steamapps\common\RE3
 
 File contains:
 
@@ -54,7 +52,7 @@ https://www.techpowerup.com/download/nvidia-dlss-dll/](https://www.techpowerup.c
 
 ### Tested with NVIDIA DLSS DLL 310.5.3
 
-## OTHER NOTES.
+# OTHER NOTES.
 
 INSERT key opens/ closes REFRAMEWORK overlay.
 
