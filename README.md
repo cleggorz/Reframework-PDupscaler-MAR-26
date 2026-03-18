@@ -16,7 +16,7 @@ REFIX
 
 PDPerfPlugin 1.1.2
 
-DLSS Tweaks. Forced transformer model L for use with latest DLSS version (Stops ghosting/ smearing)
+DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
 
 Need to apply latest nvngx to RE2 root directory (\Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2)
 
@@ -50,7 +50,7 @@ REFIX
 
 PDPerfPlugin 1.1.2
 
-DLSS Tweaks forcing transformer model L for use with latest DLSS version (Stops ghosting/ smearing)
+DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
 
 Need to apply latest nvngx to RE3 root directory (\Steam\steamapps\common\RE3) 
 
