@@ -1,6 +1,6 @@
 # ReFramework files taken from latest upscaler build as of 12/3/26.
 
-### These files add a bunch of enhancement mods to RE2/ RE3. When I get chance I will update for other games. 
+### These files listed below add a bunch of enhancement mods to RE2/ RE3 DX12 standard steam version. When I get chance I will update for other games. 
 
 ### Make sure to check OTHER NOTES at the bottom.
 
