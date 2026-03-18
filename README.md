@@ -22,6 +22,8 @@ PDPerfPlugin 1.1.2
 
 DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
 
+### IMPORTANT!!
+
 ### Download and extract latest nvngx.dll to RE2 root directory (\Steam\steamapps\common\RESIDENT EVIL 2  BIOHAZARD RE2) 
 
 https://www.techpowerup.com/download/nvidia-dlss-dll/
@@ -45,6 +47,8 @@ REFIX
 PDPerfPlugin 1.1.2
 
 DLSS Tweaks. Forced transformer model to L for use with latest DLSS version (Stops ghosting/ smearing)
+
+### IMPORTANT!!
 
 ### Download and extract latest nvngx.dll to RE3 root directory (\Steam\steamapps\common\RE3) 
 
